@@ -253,3 +253,24 @@ This project is licensed under the MIT License.
 ---
 
 🔥 **Built for hackers. Designed for clarity.**
+
+
+## 📸 Screenshots
+
+<p align="center">
+  <img src="assets/1.png" width="800">
+</p>
+
+<p align="center">
+  <img src="assets/2.png" width="800">
+</p>
+
+<p align="center">
+  <img src="assets/3.png" width="800">
+
+<p align="center">
+  <img src="assets/4.png" width="800">
+  
+<p align="center">
+  <img src="assets/5.png" width="800">
+</p>
