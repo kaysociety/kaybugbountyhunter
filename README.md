@@ -58,8 +58,8 @@ Unlike noisy scanners, this tool performs **safe, controlled checks** and genera
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/kay-bug-bounty-hunter.git
-cd kay-bug-bounty-hunter
+git clone https://github.com/kaysociety/kaybugbountyhunter.git
+cd kaybugbountyhunter
 ```
 
 ### 2. Make executable (Linux/Kali)
